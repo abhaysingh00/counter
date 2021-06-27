@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+  background:url("bg counter.jpg") ;
+
+    text-align:center;
+}
+#heading{
+   
+    padding: 30px;
+    margin-top: -22px;
+    color:darkred;
+
+}
+#count-increase{
+    font-size:40px;
+    
+    padding:21px;
+    margin-top:-21px;
+   
+
+}
+#count_fnc button{
+    
+    box-sizing: border-box;
+    padding:15px;
+    height: 30px;
+    width: 200px;
+    padding:20px;
+    font-size:20px;
+    color: red;
+}
+#save-btn button{
+    padding:20px;
+    ;
+    margin-top:20px;
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 500;
+}
+p{
+    font-size:24px;
+    color:pink;
+}
